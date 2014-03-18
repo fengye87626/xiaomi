@@ -1,0 +1,13 @@
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\bin\Debug\xiaomi.exe.config
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\obj\Debug\xiaomi.Form1.resources
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\obj\Debug\xiaomi.csproj.GenerateResource.Cache
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\obj\Debug\xiaomi.Properties.Resources.resources
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\bin\Debug\xiaomi.exe
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\bin\Debug\xiaomi.pdb
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\bin\Debug\HtmlAgilityPack.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\bin\Debug\Newtonsoft.Json.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\bin\Debug\HtmlAgilityPack.pdb
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\bin\Debug\HtmlAgilityPack.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\bin\Debug\Newtonsoft.Json.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\obj\Debug\xiaomi.exe
+c:\users\jzcvqp\documents\visual studio 2013\Projects\xiaomi\xiaomi\obj\Debug\xiaomi.pdb
